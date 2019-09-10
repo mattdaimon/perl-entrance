@@ -69,8 +69,10 @@ $hash_ref->{name}, $hash_ref->{year}, ...
 ```
 
 ## 参考URL
+- ほぼ以下の記事から引用です。ありがとうございます。
 
-> 【第308回】ぼくはPerlが大好き（３）シジルの愉悦 http://blog.query1000.com/archives/24758660.html
+> 【第308回】ぼく
+はPerlが大好き（３）シジルの愉悦 http://blog.query1000.com/archives/24758660.html
 
 > 配列・無名配列とハッシュ・無名ハッシュの記法を整理する。 https://github.com/perl-entrance-org/workshop-2019/blob/master/4th/answer/r-nakamura/note.org
 
