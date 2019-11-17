@@ -1,21 +1,3 @@
-
-コンテンツへ
-Gmail でのスクリーン リーダーの使用
-1 / 7
-Perl入学式mojo
-受信トレイ
-	x
-takanojyou <takanojyou@gmail.com>
-	
-添付ファイル8:43 (0 分前)
-	
-To 自分
-
-6 個の添付ファイル
-	
-	
-	
-
 matt.daimon 17:51
 皆様、こんばんわ。Mojoliciousの予習をしています。
 どうしても納得がいかないので教えて頂きたく思います。
@@ -196,6 +178,3 @@ matt.daimon 08:12
 不測の結果を避ける為にはなるべく () を付ける、ですね。
 どうして?の部分は読んでいませんが、今はこれで納得できます。
 ありがとうございます!!!!
-
-20191020_Mojolicious_slack_comments.txt
-20191020_Mojolicious_slack_comments.txt を表示しています。
